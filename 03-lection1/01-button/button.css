@@ -14,7 +14,7 @@
 
 .button:disabled {
 	opacity: 0.5;
-	cursor: not-allowed;
+	pointer-events: none;
 }
 
 .button_primary {
@@ -23,7 +23,7 @@
 	border-color: #4263EB;
 }
 
-.button_primary_default:hover {
+.button_primary:hover {
 	background: #2342C0; 
 	border-color: #2342C0;
 	cursor: pointer;
@@ -35,7 +35,7 @@
 	border-color: var(--purple);
 }
 
-.button_secondary_default:hover {
+.button_secondary:hover {
 	background: #5028C6;
 	border-color: #5028C6;
 	cursor: pointer;
@@ -47,7 +47,7 @@
 	border-color: var(--grey-3);
 }
 
-.button_alternate_default:hover {
+.button_alternate:hover {
 	border-color: var(--black);
 	cursor: pointer;
 }
