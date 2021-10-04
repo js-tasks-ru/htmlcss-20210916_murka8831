@@ -53,7 +53,8 @@
 	color: var(--black);
 }
 
-.histogram__hide {
+.histogram__link {
 	color: var(--colorhist); 
-	margin: 3px;
+	margin-top: 3px;
+	margin-bottom: 0px;
 }
