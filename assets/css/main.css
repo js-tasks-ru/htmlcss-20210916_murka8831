@@ -11,7 +11,10 @@
     --grey-2: #DDE2E5;
     --grey-3: #ACB5BD;
     --grey-4: #495057;
+<<<<<<< HEAD
     --grey-5: #F9FAFC;
+=======
+>>>>>>> master
     --colorhist: #4263EB;
 
     --error: var(--red);
@@ -22,5 +25,5 @@
 }
 
 * {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Inter', sans-serif;
 }
