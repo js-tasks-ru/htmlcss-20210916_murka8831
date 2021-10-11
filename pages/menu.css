@@ -1,0 +1,36 @@
+.menu {
+	width: 229px;
+	padding-left: 165px;
+}
+
+.menu__title {
+	font-family: Inter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 26px;
+	color: var(--black-1);
+	margin: 0;
+	padding-bottom: 16px;
+
+}
+
+.menu__main {
+	font-family: Inter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 22px;
+	color: var(--black);
+	padding-bottom: 30px;
+
+}
+
+.menu__footer {
+	font-family: Inter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 22px;
+	color: var(--black);
+}
