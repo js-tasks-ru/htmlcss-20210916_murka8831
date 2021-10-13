@@ -1,0 +1,16 @@
+
+.card {
+	background: var(--white);
+	height: 367px;
+	display: inline-block;
+	border-radius: 12px;
+	box-shadow: 0px 2px 4px rgba(33, 36, 41, 0.05);
+	padding-top: 32px;
+}
+
+.card__preview-component {
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	position: absolute;
+}
