@@ -1,0 +1,29 @@
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+}
+
+
+.logo__square {
+    height: 30px;
+    width: 30px;
+    background: black;
+    margin-right: 8px;
+}
+
+.logo__circle {
+    height: 32px;
+    width: 32px;
+    background: black;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.logo__delta {
+   	border: 16px solid transparent;
+    border-left: 16px solid black;
+	border-bottom: 16px solid black;
+
+}
